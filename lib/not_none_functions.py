@@ -1,2 +1,3 @@
 def return_not_none():
-    return None
+    not_none = not None
+    return not_none
